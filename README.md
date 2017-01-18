@@ -1,11 +1,12 @@
 # Freaky Ball
 
+![](/1.ong)
 
 #### Freaky Ball {[Download .apk](https://play.google.com/store/apps/details?id=com.thefreakapps.therunningfreak)}
 Launch #5 | Freaky Ball | 18.01.2017 | Google Play Store
 
 ## Now Live on the Play Store!!
-![](https://lh3.googleusercontent.com/BhJIBvLSZ1x7MHIpmpfzx1TnphbTD_hx1eK5zUTuzkaCB-xrFiVbLyll8GFwa66Qzf4=h310-rw)
+![](/icon.png)
 
 
 ## Synopsis
