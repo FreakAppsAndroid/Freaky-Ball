@@ -6,7 +6,7 @@
 Launch #5 | Freaky Ball | 18.01.2017 | Google Play Store
 
 ## Now Live on the Play Store!!
-![](1.png)
+![](/1.png)
 
 
 ## Synopsis
